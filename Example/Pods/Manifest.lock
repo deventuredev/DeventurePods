@@ -1,0 +1,16 @@
+PODS:
+  - LooootPod (0.1.0)
+
+DEPENDENCIES:
+  - LooootPod (from `../`)
+
+EXTERNAL SOURCES:
+  LooootPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LooootPod: cf1fbfcf8890a36636fb6eb9bd50269a4fd07b2e
+
+PODFILE CHECKSUM: 8324320690c11ee4a5ca840ed820de69979cfcb0
+
+COCOAPODS: 1.9.3
